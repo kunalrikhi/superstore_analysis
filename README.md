@@ -1,2 +1,2 @@
 # superstore_analysis
-The following inculdes a daetailed analysis with conclusions of a superstore.
+The following inculdes a detailed analysis with conclusions of a superstore.
